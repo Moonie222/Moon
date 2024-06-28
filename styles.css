@@ -13,8 +13,8 @@ body {
 }
 
 .moon {
-    width: 100px;
-    height: 100px;
+    width: 200px;
+    height: 200px;
     background-image: url('moon.png'); /* Добавьте путь к изображению луны */
     background-size: cover;
     border-radius: 50%;
